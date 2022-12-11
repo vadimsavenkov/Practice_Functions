@@ -7,3 +7,5 @@
 ## "Guido's Gorgeous Lasagna" Exercise.
 
 "Write some code to help to cook a gorgeous lasagna from your favorite cookbook!"
+
+## Ghost Gobble Arcade Game Exercise.
