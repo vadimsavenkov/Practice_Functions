@@ -13,3 +13,5 @@
 "Implement some rules from Pac-Man, the classic 1980s-era arcade-game."
 
 ## Currency Exchange Exercise.
+
+"Help your friend to make a currency calculator for his upcoming trip" 
