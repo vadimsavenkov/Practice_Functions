@@ -1,4 +1,4 @@
-# Practice_Functions
+# Practice_Functions Exercises
 
 ## "Hello, World!" Exercise.
 
@@ -15,3 +15,5 @@
 ## Currency Exchange Exercise.
 
 "Help your friend to make a currency calculator for his upcoming trip" 
+
+## Meltdown Mitigation Exercise.
