@@ -14,8 +14,12 @@
 
 ## Currency Exchange Exercise.
 
-"Help your friend to make a currency calculator for his upcoming trip" 
+"Help your friend to make a currency calculator for his upcoming trip." 
 
 ## Meltdown Mitigation Exercise.
 
 "Develop a simple control system for a nuclear reactor."
+
+## Little Sister's Essay Exercise.
+
+"Help your younger sister to edit her paper for school."
